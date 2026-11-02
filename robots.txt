@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://myblog.apricity0403.us.ci/sitemap-index.xml
