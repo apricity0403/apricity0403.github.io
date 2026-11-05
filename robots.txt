@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://myblog.apricity0403.us.ci/sitemap-index.xml
+Sitemap: https://blog.fangyuanmeow.site/sitemap-index.xml
